@@ -14,3 +14,6 @@ https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html
 
 ##
 
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
+
+##
